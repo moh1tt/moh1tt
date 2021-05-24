@@ -1,5 +1,5 @@
-### Hi there 👋  
-###I'm Mohit <g-emoji class="g-emoji" alias="man_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">👨‍💻</g-emoji>
+# Hi there 👋  
+### I'm Mohit <g-emoji class="g-emoji" alias="man_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">👨‍💻</g-emoji>
 
 I'm Computer Science student who seek position as a data analyst. Current interests lies in the field of data science and analytics.  
 
