@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Mohit Appari</h1>
 <h3 align="center">A passionate Developer and Data science enthusiast</h3>
 
-<p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> </p>
+<p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="100px" width="100px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="100px" width="100px"> </p>
 
 - 🔭 I've worked as an intern in many reputed organizations like **S&P Global, LG and ITC Infotech**
 
