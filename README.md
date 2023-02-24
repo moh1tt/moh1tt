@@ -19,6 +19,7 @@ const Mohit = {
   challenge: "To become well versed with Machine Learning and Deep Learning tools",
   goal: "To work in a fast paced ML based company",
   reach_me_at: "mohitt.appari@gmail.com"
+  website: "https://moh1tt.github.io/mohit-portfolio/"
 }
 ```
 
