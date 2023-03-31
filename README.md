@@ -1,4 +1,8 @@
-<h2> Hi, I'm Mohit Appari! <img src="https://media.giphy.com/media/hvCT0TR3ZgI9V06mli/giphy.gif" width="50"></h2>
+![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
+<h1> Hi, I'm Mohit Appari! <img src="https://media.giphy.com/media/hvCT0TR3ZgI9V06mli/giphy.gif" width="50"></h1>
+<h3 align="center">A data science professional who is passionate about solving complex real-world problems using technology</h3>
+<img align="right" alt="Coding" width="400" src=https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif>
+
 <img align='right' src="https://media.giphy.com/media/VZV471U1wUShjcsMlE/giphy.gif" width="230">
 <p>Associate Software Developer at <a href="https://www.spglobal.com/en/">S&P Global</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
