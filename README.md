@@ -1,9 +1,10 @@
 ![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
-<h1> Hi, I'm Mohit Appari! <img src="https://media.giphy.com/media/hvCT0TR3ZgI9V06mli/giphy.gif" width="50"></h1>
+<h1> Hi, I'm Mohit Appari! <img src="https://media.giphy.com/media/hvCT0TR3ZgI9V06mli/giphy.gif" width="20"></h1>
 <h3 align="center">A student who is passionate about solving complex real-world problems using technology and machine learning techniques</h3>
 
 <img align='right' src="https://media.giphy.com/media/VZV471U1wUShjcsMlE/giphy.gif" width="230">
-<p>Associate Software Developer at <a href="https://www.spglobal.com/en/">S&P Global</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p>Graduate Student at <a href="https://www.fsu.edu/">Florida State University</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p>Ex Associate Software Developer at <a href="https://www.spglobal.com/en/">S&P Global</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Twitter: Moh1tt](https://img.shields.io/twitter/follow/Moh1tt?style=social)](https://twitter.com/moh1tt)
@@ -16,13 +17,12 @@
 ```javascript
 const Mohit = {
   internships: "ITC Infotech" | "LG India" | "S&P Global",
-  projects: [Dog Classifier - Deep Learning, Stock Price Prediction And Visualization],
-  code: [Python, Java, C, Javascript],
-  tools: [Fastai, Pytorch, Keras],
-  challenge: "To become well versed with Machine Learning and Deep Learning tools",
-  goal: "To work in a fast paced ML based company",
+  code: [Python],
+  tools: [Fastai, Pytorch, Docker, Kubernetes, Pyspark, AWS, Google Cloud, Airflow, Snowflake ],
+  challenge: "To become well versed with Machine Learning and Data Engineering tools",
+  goal: "To work in a fast-paced data based company",
   reach_me_at: "mohitt.appari@gmail.com"
-  website: "https://moh1tt.github.io/mohit-portfolio/"
+  website: "https://moh1tt.github.io/resume/"
 }
 ```
 <h3 align="left">Languages and Tools:</h3>
