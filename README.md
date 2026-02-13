@@ -1,6 +1,7 @@
 # Hey there, I'm Mohit! 👋
 
 <div align="center">
+<img width="885" height="548" alt="image" src="https://github.com/user-attachments/assets/e34f0382-83e4-43f8-b78a-f1e69d414389" />
 
 ### Data Scientist | Quant Developer | Building Systems That Think
 
