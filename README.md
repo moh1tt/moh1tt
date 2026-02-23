@@ -40,7 +40,7 @@ weekly_workflow = {
 
 Multi-source financial data ingestion → Feature engineering → LLM-powered research synthesis → Backtesting → Paper trading → Live execution (eventually 🤞)
 
-**[Check out the live system →](https://quantbook.vercel.app)**
+**[Check out the live system →](https://moh1tt.xyz)**
 
 ---
 
@@ -155,7 +155,7 @@ Got an interesting problem? Building something cool? Just want to chat about the
 - ☕ Virtual coffee chats about anything data/ML/finance
 
 **Find me here:**
-- 🌐 Portfolio: [quantbook.vercel.app](https://quantbook.vercel.app)
+- 🌐 Portfolio: [moh1tt.xyz](https://moh1tt.xyz)
 - 💼 LinkedIn: [linkedin.com/in/moh1tt](https://linkedin.com/in/moh1tt)
 - 📧 Email: mohitt.appari@gmail.com
 - 📍 Based in: Tallahassee, FL (but my code works everywhere)
